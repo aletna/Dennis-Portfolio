@@ -1,0 +1,25 @@
+{
+  "name": "dennis-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio site of Dennis",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aletna/Dennis-Portfolio.git"
+  },
+  "keywords": [
+    "Dennis",
+    "Antela",
+    "Martinez",
+    "Portfolio"
+  ],
+  "author": "Dennis Antela Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aletna/Dennis-Portfolio/issues"
+  },
+  "homepage": "https://github.com/aletna/Dennis-Portfolio#readme",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "normalize.css": "^5.0.0"
+  }
+}
