@@ -1,7 +1,5 @@
-$mainBlue: #2f5572;
-
-body {
-	color: $mainBlue;
-	margin: 10px;
-	columns: 300px 2;
-}
+@import "normalize.css";
+@import "base/_variables";
+@import "base/_global";
+@import "modules/_large-cover";
+@import "modules/_row";
